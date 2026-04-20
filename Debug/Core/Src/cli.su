@@ -1,0 +1,3 @@
+../Core/Src/cli.c:23:6:cli_printf	144	static
+../Core/Src/cli.c:32:6:ProcessarComando	24	static
+../Core/Src/cli.c:70:6:StartCLITask	56	static

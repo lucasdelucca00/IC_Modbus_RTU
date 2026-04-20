@@ -1,0 +1,3 @@
+../Core/Src/cli.c:23:6:cli_printf	1
+../Core/Src/cli.c:32:6:ProcessarComando	10
+../Core/Src/cli.c:70:6:StartCLITask	9

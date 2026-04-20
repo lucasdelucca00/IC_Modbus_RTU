@@ -1,0 +1,5 @@
+../Core/Inc/modbus_rtu.h:21:24:modbus_crc	24	static
+../Core/Src/modbus_rtu.c:22:13:send_exception	24	static
+../Core/Src/modbus_rtu.c:37:6:modbus_init	16	static
+../Core/Src/modbus_rtu.c:45:6:modbus_rtu_rx_complete	16	static
+../Core/Src/modbus_rtu.c:53:6:modbus_poll	280	static

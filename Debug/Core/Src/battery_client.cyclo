@@ -1,0 +1,3 @@
+../Core/Inc/modbus_rtu.h:21:24:modbus_crc	4
+../Core/Src/battery_client.c:19:6:battery_client_init	1
+../Core/Src/battery_client.c:25:9:battery_read_basic	9

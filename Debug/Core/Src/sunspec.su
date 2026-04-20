@@ -1,0 +1,4 @@
+../Core/Src/sunspec.c:15:13:write_str	24	static
+../Core/Src/sunspec.c:35:6:sunspec_init	16	static
+../Core/Src/sunspec.c:85:16:clamp_i16	16	static
+../Core/Src/sunspec.c:92:6:sunspec_update	24	static

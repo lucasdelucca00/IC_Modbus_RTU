@@ -1,0 +1,2 @@
+../Core/Src/rs485.c:12:6:rs485_tx	16	static
+../Core/Src/rs485.c:17:6:rs485_rx	16	static
